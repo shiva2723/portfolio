@@ -10,7 +10,7 @@ Hello! I'm Shiva Prasad, a B.Tech CSE student passionate about Cybersecurity, SO
 - Linux
 - Wireshark
 - Nmap
-- HTML, CSS, JavaScript
+
 
 ## Projects
 ### AI-Powered SOC Analyst
